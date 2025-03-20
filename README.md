@@ -46,6 +46,9 @@ Aşağıda, metro ağını kullanarak farklı test senaryolarında en hızlı ve
 *	**En az aktarmalı rota:** Keçiören -> Gar -> Gar -> Sıhhiye -> Kızılay -> AŞTİ
 *	**En hızlı rota (19 dakika):** Keçiören -> Gar -> Gar -> Sıhhiye -> Kızılay -> AŞTİ
 
+![Test_Senaryolari](https://github.com/user-attachments/assets/a8564eb6-af5c-4597-a76c-0e9a3d2c180f)
+
+
 ## Metro Ağının Görselleştirilmesi
 Projede, metro ağı görselleştirilmiş ve farklı hatlar için renkler atanmıştır. Görselleştirme, NetworkX ve Matplotlib kütüphaneleri kullanılarak yapılmıştır.
 *	Kırmızı Hat: **Kırmızı**
