@@ -40,8 +40,8 @@ Aşağıda, metro ağını kullanarak farklı test senaryolarında en hızlı ve
 *	**En az aktarmalı rota:** AŞTİ -> Kızılay -> Kızılay -> Ulus -> Demetevler -> OSB
 *	**En hızlı rota (25 dakika):** AŞTİ -> Kızılay -> Kızılay -> Ulus -> Demetevler -> OSB
 ### Senaryo 2: Batıkent'ten Keçiören'e:
-*	**En Az Aktarmalı Rota:** Batıkent -> Demetevler -> Gar -> Keçiören
-*	**En Hızlı Rota (21 dakika):** Batıkent -> Demetevler -> Gar -> Keçiören
+*	**En az aktarmalı rota:** Batıkent -> Demetevler -> Gar -> Keçiören
+*	**En hızlı rota (21 dakika):** Batıkent -> Demetevler -> Gar -> Keçiören
 ### Senaryo 3: Keçiören'den AŞTİ'ye:
 *	**En az aktarmalı rota:** Keçiören -> Gar -> Gar -> Sıhhiye -> Kızılay -> AŞTİ
 *	**En hızlı rota (19 dakika):** Keçiören -> Gar -> Gar -> Sıhhiye -> Kızılay -> AŞTİ
@@ -51,6 +51,9 @@ Projede, metro ağı görselleştirilmiş ve farklı hatlar için renkler atanm�
 *	Kırmızı Hat: **Kırmızı**
 *	Mavi Hat: **Mavi**
 *	Turuncu Hat: **Turuncu**
+
+![Metro_agi_gorsellestirme](https://github.com/user-attachments/assets/aea72d69-c52f-4196-bdf1-e32695c659c8)
+
 
 ## Projeyi Geliştirme Fikirleri
 Bu projeyi daha da geliştirmek için aşağıdaki fikirler üzerinde çalışabiliriz:
