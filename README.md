@@ -65,3 +65,21 @@ Bu projeyi daha da geliştirmek için aşağıdaki fikirler üzerinde çalışab
 3.	**Dinamik Zamanlar:** Her bir istasyon için hareketli süreleri eklemek ve farklı saat dilimlerinde metro sürelerini değiştirmek.
 4.	**Kullanıcı Arayüzü:** Kullanıcıların metro ağını görsel olarak keşfetmesine olanak tanıyacak bir arayüz geliştirmek.
 
+## Kod Yapısı
+Projenin temel yapısı aşağıdaki gibidir:
+
+### Sınıflar
+1. **Istasyon:** Her istasyonun kimliği (ID), adı, hattı ve komşu istasyonlarını tutar.
+2. **MetroAgi:** Metro ağını ve istasyonlar arası bağlantıları yönetir. Ayrıca, BFS ve A* algoritmalarını içerir.
+
+### Metotlar
+* **istasyon_ekle**: Yeni bir istasyon ekler.
+* **baglanti_ekle:** İki istasyon arasında bağlantı ekler.
+* **en_az_aktarma_bul:** BFS algoritması ile en az aktarmalı rotayı bulur.
+* **en_hizli_rota_bul:** A* algoritması ile en hızlı rotayı bulur.
+* **metro_agini_gorsellestir:** Metro ağını görselleştirir.
+
+## Örnek Kullanım
+
+![Ornek_Kullanim](https://github.com/user-attachments/assets/9b1cf0bb-cd1e-49c4-b63a-923d1ad6c888)
+
